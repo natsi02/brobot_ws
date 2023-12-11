@@ -1,0 +1,6 @@
+string message
+int8 status
+---
+bool speakresult
+---
+bool speakfeedback
